@@ -1,4 +1,4 @@
-touch1) Посмотреть где я - pwd
+1) Посмотреть где я - pwd
 2) Создать папку - mkdir foldername
 3) Зайти в папку - cd foldername
 4) Создать 3 папки - mkdir -p foldername1 foldername2 foldername3
