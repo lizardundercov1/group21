@@ -46,4 +46,4 @@ touch filename1.txt filename2.txt filename3.txt filename4.json filename5.json
 mkdir -p foldername4/foldername5/foldername6
 ls -la
 mv filename1.txt filename2.txt /d/useless
-asd
+
